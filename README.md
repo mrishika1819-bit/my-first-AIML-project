@@ -1,7 +1,7 @@
  # Hi, I'm Rishika M 👋
 
 ### AIML Student @ Hindustan College of Engineering and Technology
-Batch 2025-2029 | Coimbatore
+Batch 2026-2030 | Coimbatore
 
 🚀 My Journey:
 - Started learning GitHub today!
