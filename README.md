@@ -10,6 +10,7 @@ Batch 2026-2030 | Coimbatore
 
 💻 Skills I'm Learning:
 - Python
+-c
 - Machine Learning
 - Git & GitHub
 
